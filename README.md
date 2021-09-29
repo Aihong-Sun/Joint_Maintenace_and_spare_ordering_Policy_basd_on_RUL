@@ -13,5 +13,6 @@ established to minimize the expected cost per unit time, and a discrete event si
 proposed model. Finally, a case study is given to demonstrate the proposed model and algorithm, and the minimal expected
 cost per unit time is 14.656 3 with regard to the optimal preventive replacement threshold 8 and the optimal spare ordering
 threshold 1 000.
+
 Key  words: remaining  useful  life;   preventive  replacement;   spare  ordering;   Wiener  process;   control  limit  policy;   the
 renewal award theorem
